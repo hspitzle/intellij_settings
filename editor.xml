@@ -1,0 +1,14 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="ECMAScript 6" value="true" />
+      </map>
+    </option>
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
+</application>
