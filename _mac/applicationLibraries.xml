@@ -6679,6 +6679,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta_pb-ib_shopper-1.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="ibotta_pb-ib_shopper (v1.1.3, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta_pb-ib_shopper-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta_pb-ib_shopper-1.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="ibotta_pb-ib_shopping (v2.0.0, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
