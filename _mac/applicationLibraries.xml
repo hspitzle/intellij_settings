@@ -692,6 +692,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.112/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.11.146, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-2.11.146/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-2.11.146/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.8.14, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-2.8.14/lib" />
@@ -719,6 +730,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.112/apis" />
       </excluded>
     </library>
+    <library name="aws-sdk-core (v2.11.146, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/apis" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.11.146/apis" />
+      </excluded>
+    </library>
     <library name="aws-sdk-core (v2.8.14, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.8.14/bin" />
@@ -740,6 +770,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.112/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.146, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.11.146/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.11.146/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.8.14, rbenv: 2.4.1) [gem]">
@@ -781,6 +822,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sigv4 (v1.0.3, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="backports (v2.8.2, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -795,6 +847,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-2.8.2/test" />
+      </excluded>
+    </library>
+    <library name="backports (v3.11.4, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/set_version" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/frozen_old_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/set_version" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/frozen_old_spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/set_version" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/backports-3.11.4/frozen_old_spec" />
       </excluded>
     </library>
     <library name="barby (v0.6.5, rbenv: 2.4.1) [gem]">
@@ -2403,6 +2480,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/dyn_seg_api-0.7.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="dyn_seg_api (v0.8.0, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/dyn_seg_api-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/dyn_seg_api-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="easy_translate (v0.5.0, rbenv: 2.4.1) [gem]">
@@ -4524,6 +4612,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-customer_support_external_api-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="ibotta-customer_support_external_api (v0.7.0, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-customer_support_external_api-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-customer_support_external_api-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ibotta-logging (v1.0.2, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -4538,6 +4637,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-logging-1.0.2/bin" />
+      </excluded>
+    </library>
+    <library name="ibotta-logging (v1.0.3, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-logging-1.0.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-logging-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-logging-1.0.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-logging-1.0.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-logging-1.0.3/bin" />
       </excluded>
     </library>
     <library name="ibotta-metrics-statsd (v2.3.0, rbenv: 2.4.4) [gem]" type="rubylib">
@@ -4590,6 +4705,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-security_token_service-0.4.2/bin" />
+      </excluded>
+    </library>
+    <library name="ibotta-security_token_service (v0.4.3, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-security_token_service-0.4.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-security_token_service-0.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-security_token_service-0.4.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-security_token_service-0.4.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-security_token_service-0.4.3/bin" />
       </excluded>
     </library>
     <library name="ibotta_geohash (v0.0.1@36d5a0, rbenv: 2.4.1) [gem]">
@@ -6239,6 +6370,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.2/bench" />
       </excluded>
     </library>
+    <library name="mustermann (v1.0.3, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+      </excluded>
+    </library>
     <library name="mvt_service_client (v0.4.0, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -7886,6 +8036,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.4, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, rbenv: 2.4.1) [gem]">
@@ -9606,6 +9767,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/semantic_logger-4.2.0/test" />
       </excluded>
     </library>
+    <library name="semantic_logger (v4.2.2, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/semantic_logger-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/semantic_logger-4.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/semantic_logger-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/semantic_logger-4.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/semantic_logger-4.2.2/test" />
+      </excluded>
+    </library>
     <library name="semantic_versioning (v0.2.0, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -9946,6 +10123,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-2.0.2/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v2.0.4, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/examples" />
+      </excluded>
+    </library>
     <library name="sinatra-activerecord (v2.0.13, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -9966,6 +10159,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-contrib-2.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra-contrib (v2.0.4, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-contrib-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/sinatra-contrib-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="sitemap_generator (v5.3.1, rbenv: 2.4.1) [gem]">
@@ -10659,6 +10863,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-4.12.1/docs" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-4.12.1/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-4.12.1/examples" />
+      </excluded>
+    </library>
+    <library name="twilio-ruby (v5.14.1, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/conf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/conf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/githooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/conf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.14.1/githooks" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.3, rbenv: 2.4.1) [gem]">
