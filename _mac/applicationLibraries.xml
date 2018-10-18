@@ -4497,6 +4497,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-crm_event_service-0.1.0/bin" />
       </excluded>
     </library>
+    <library name="ibotta-crm_event_service (v1.0.0, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-crm_event_service-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-crm_event_service-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-crm_event_service-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-crm_event_service-1.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-crm_event_service-1.0.0/bin" />
+      </excluded>
+    </library>
     <library name="ibotta-customer_support_external_api (v0.6.0, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
