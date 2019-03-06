@@ -9,6 +9,7 @@
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="delete" type="PLAIN_TEXT" />
       <mapping pattern="editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="deploy_ruby" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
