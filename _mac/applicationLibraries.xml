@@ -6371,17 +6371,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-tracking-enums-0.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="ibotta-tracking_enums (v0.0.3, rbenv: 2.4.4) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-tracking_enums-0.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ibotta-tracking_enums-0.0.3/lib" />
-      </SOURCES>
-    </library>
     <library name="ibotta_geohash (v0.0.1@36d5a0, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/ibotta_geohash-36d5a0d5fe00/lib" />
