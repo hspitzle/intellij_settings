@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
+      <blacklist language="TypeScript">
+        <added pattern="reject(req,res,done)" />
+      </blacklist>
       <blacklist language="Java">
         <added pattern="org.apache.camel.model.ProcessorDefinition.log(loggingLevel,logger,message)" />
         <added pattern="org.apache.camel.builder.DataFormatClause.protobuf(instanceClassName,contentTypeFormat)" />
