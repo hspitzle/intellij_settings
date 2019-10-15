@@ -7549,6 +7549,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="tilt (v2.0.10, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+      </excluded>
+    </library>
     <library name="tilt (v2.0.8, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
