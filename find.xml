@@ -14,5 +14,6 @@
     <mask>*.jbuilder</mask>
     <mask>*.rb</mask>
     <mask>*.yaml</mask>
+    <mask>*.md</mask>
   </component>
 </application>
