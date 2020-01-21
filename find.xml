@@ -15,7 +15,7 @@
     <mask>*.rbw</mask>
     <mask>*.jbuilder</mask>
     <mask>*.rb</mask>
-    <mask>*.yaml</mask>
     <mask>*.md</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
