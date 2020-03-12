@@ -48,7 +48,7 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.17.3, RVM: ruby-2.6.4 [global]) [gem]" type="rubylib">
+    <library name="bundler (v2.1.2, RVM: ruby-2.6.4 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
