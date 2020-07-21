@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping ext="decoded" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping pattern="non_canary_hosted_exporters" type="Ruby" />
     </extensionMap>
