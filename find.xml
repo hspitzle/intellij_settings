@@ -14,8 +14,9 @@
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.rb</mask>
-    <mask>*.haml</mask>
     <mask>*.rake</mask>
     <mask>*.js</mask>
+    <mask>*.jsx</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
