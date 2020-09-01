@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Ruby">
+        <added pattern="ExternalAlertStandardizer::ExternalAlert.add_analysis_context(context,title,list)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
