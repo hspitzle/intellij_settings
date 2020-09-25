@@ -831,6 +831,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/bootstrap-will_paginate-1.0.0/config" />
       </excluded>
     </library>
+    <library name="brakeman (v4.9.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/bundle" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/brakeman-4.9.1/bundle" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.4, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
