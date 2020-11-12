@@ -907,6 +907,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/aws-sdk-autoscaling-1.43.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudwatch (v1.46.0, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/aws-sdk-cloudwatch-1.46.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/aws-sdk-cloudwatch-1.46.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cloudwatchlogs (v1.23.0, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
