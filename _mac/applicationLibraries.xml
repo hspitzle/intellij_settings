@@ -9006,6 +9006,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/prometheus-client-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="prometheus-client (v0.7.1@8046de, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/bundler/gems/client_ruby-8046de9c44ff/examples" />
+      </excluded>
+    </library>
     <library name="prometheus-client (v0.7.1@8046de, asdf: jruby-9.2.13.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
