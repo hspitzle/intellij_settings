@@ -7,6 +7,7 @@
       <mapping ext="decoded" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping pattern="non_canary_hosted_exporters" type="Ruby" />
+      <mapping pattern="kube-sqs-autoscaler" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
