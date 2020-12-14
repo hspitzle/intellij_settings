@@ -7,6 +7,7 @@
       <mapping ext="decoded" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping pattern="non_canary_hosted_exporters" type="Ruby" />
+      <mapping pattern="deploy_autoscalers" type="Ruby" />
       <mapping pattern="test" type="Shell Script" />
       <mapping pattern="console" type="Shell Script" />
       <removed_mapping pattern="kube-sqs-autoscaler" approved="true" type="Shell Script" />
