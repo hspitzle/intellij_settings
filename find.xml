@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,9 +16,9 @@
     <mask>*.yaml</mask>
     <mask>*.rake</mask>
     <mask>*.js</mask>
-    <mask>*.haml</mask>
     <mask>*.jsx</mask>
     <mask>*css</mask>
     <mask>*.rb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
