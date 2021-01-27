@@ -5,6 +5,7 @@
         <added pattern="ExternalAlertStandardizer::ExternalAlert.add_analysis_context(context,title,list)" />
         <added pattern="expect_to_have_identity_correlation_points(points)" />
         <added pattern="expect_to_have_device_correlation_points(points)" />
+        <added pattern="RSpec::Matchers.match_array(items)" />
       </blacklist>
     </blacklists>
   </component>
