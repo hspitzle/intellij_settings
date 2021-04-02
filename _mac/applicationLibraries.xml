@@ -16077,6 +16077,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.11.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v1.12.0, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/assets" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/assets" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/assets" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.12.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop (v1.3.1, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16250,6 +16272,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.10.1/config" />
       </excluded>
     </library>
+    <library name="rubocop-performance (v1.10.2, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.10.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.10.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.10.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.10.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-performance-1.10.2/config" />
+      </excluded>
+    </library>
     <library name="rubocop-performance (v1.4.0, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16392,6 +16430,13 @@
       <SOURCES />
     </library>
     <library name="rubocop-redcanary (v0.2.0, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rubocop-redcanary (v0.3.0.pre.2, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -18857,6 +18902,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/standardized_activity_models-eb22ea1ae7c1/.circleci" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/standardized_activity_models-eb22ea1ae7c1/api-clients" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/standardized_activity_models-eb22ea1ae7c1/performance_spec" />
+      </excluded>
+    </library>
+    <library name="standardized_activity_models (v1.0.0, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/standardized_activity_models-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/standardized_activity_models-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/standardized_activity_models-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/standardized_activity_models-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/standardized_activity_models-1.0.0/spec" />
       </excluded>
     </library>
     <library name="statsample (v2.1.0, asdf: 2.6.6) [gem]" type="rubylib">
