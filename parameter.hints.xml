@@ -6,6 +6,7 @@
         <added pattern="expect_to_have_identity_correlation_points(points)" />
         <added pattern="expect_to_have_device_correlation_points(points)" />
         <added pattern="RSpec::Matchers.match_array(items)" />
+        <added pattern="ProvisioningRequests::Notifier.notify_slack_and_record_progress(provisioning_request,msg)" />
       </blacklist>
     </blacklists>
   </component>
