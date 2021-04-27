@@ -8,6 +8,7 @@
         <added pattern="RSpec::Matchers.match_array(items)" />
         <added pattern="ProvisioningRequests::Notifier.notify_slack_and_record_progress(provisioning_request,msg)" />
         <added pattern="RSpec::Mocks::ExampleMethods.instance_double(doubled_class,args)" />
+        <added pattern="Hash.dig(key,smth)" />
       </blacklist>
     </blacklists>
   </component>
