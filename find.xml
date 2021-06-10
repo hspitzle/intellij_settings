@@ -19,5 +19,7 @@
     <mask>*css</mask>
     <mask>*.haml</mask>
     <mask>*.rb</mask>
+    <mask>*.sops</mask>
+    <mask>*.sops.yaml</mask>
   </component>
 </application>
