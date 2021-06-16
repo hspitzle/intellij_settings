@@ -11,6 +11,7 @@
         <added pattern="Hash.dig(key,smth)" />
         <added pattern="Hash.merge(other_hashes)" />
         <added pattern="Kernel::Hash(arg)" />
+        <added pattern="Dry::Initializer.option(name,type,opts,block)" />
       </blacklist>
     </blacklists>
   </component>
