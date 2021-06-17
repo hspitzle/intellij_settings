@@ -13,6 +13,7 @@
         <added pattern="Kernel::Hash(arg)" />
         <added pattern="Dry::Initializer.option(name,type,opts,block)" />
         <added pattern="AlertCenter::DryInitializer::$$ANON$CNzA0MDIyMzY$$::$$SINGLETON$$.add_option(name,type,writable,opts,block)" />
+        <added pattern="AlertCenter::DryInitializer::$$ANON$CODc1MDcxMzI$$::$$SINGLETON$$.add_option(name,type,writable,opts,block)" />
       </blacklist>
     </blacklists>
   </component>
