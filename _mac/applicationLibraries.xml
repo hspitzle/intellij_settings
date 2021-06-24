@@ -5673,6 +5673,60 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-997c5024e416/performance_spec" />
       </excluded>
     </library>
+    <library name="detectors (v1.0.0@9dfebd, asdf: jruby-9.2.13.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/yara" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/deploy" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/script" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.circleci" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/detectors" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/templates" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/coverage-checks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/performance_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/yara" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/deploy" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/script" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.circleci" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/detectors" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/templates" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/coverage-checks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/performance_spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.git" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/yara" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/deploy" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/script" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/.circleci" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/templates" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/coverage-checks" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/bundler/gems/detectors-9dfebdf3cc58/performance_spec" />
+      </excluded>
+    </library>
     <library name="detectors (v1.0.0@9e4400, asdf: jruby-9.2.13.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8412,6 +8466,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/gems/google-protobuf-3.2.0.2-java/tests" />
+      </excluded>
+    </library>
+    <library name="google-protobuf-java (v3.17.3.4, asdf: jruby-9.2.13.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/gems/google-protobuf-java-3.17.3.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/gems/google-protobuf-java-3.17.3.4/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/gems/google-protobuf-java-3.17.3.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/gems/google-protobuf-java-3.17.3.4/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/jruby-9.2.13.0/lib/ruby/gems/shared/gems/google-protobuf-java-3.17.3.4/tests" />
       </excluded>
     </library>
     <library name="googleapis-common-protos (v1.3.10, asdf: 2.6.6) [gem]" type="rubylib">
