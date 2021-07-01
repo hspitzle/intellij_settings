@@ -14,6 +14,7 @@
         <added pattern="Dry::Initializer.option(name,type,opts,block)" />
         <added pattern="AlertCenter::DryInitializer::$$ANON$CNzA0MDIyMzY$$::$$SINGLETON$$.add_option(name,type,writable,opts,block)" />
         <added pattern="AlertCenter::DryInitializer::$$ANON$CODc1MDcxMzI$$::$$SINGLETON$$.add_option(name,type,writable,opts,block)" />
+        <added pattern="NewRelic::Agent::Instrumentation::ActiveRecordPrepend::RelationExtensions.pluck(args,kwargs,blk)" />
       </blacklist>
     </blacklists>
   </component>
