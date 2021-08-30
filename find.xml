@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rake" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,7 +16,6 @@
     <mask>*.jbuilder</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
-    <mask>*.rake</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*css</mask>
@@ -23,5 +23,6 @@
     <mask>*.rb</mask>
     <mask>*.sops</mask>
     <mask>*.sops.yaml</mask>
+    <mask>*.rake</mask>
   </component>
 </application>
