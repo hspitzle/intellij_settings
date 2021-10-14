@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sorbet" type="AUTO_DETECTED" />
       <mapping pattern="push_docker_image" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
