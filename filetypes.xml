@@ -4,6 +4,7 @@
       <mapping pattern="sorbet" type="AUTO_DETECTED" />
       <mapping pattern="push_docker_image" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
