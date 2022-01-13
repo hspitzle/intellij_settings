@@ -14,12 +14,12 @@
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.js</mask>
-    <mask>*.jsx</mask>
     <mask>*css</mask>
     <mask>*.haml</mask>
     <mask>*.rb</mask>
     <mask>*.sops</mask>
     <mask>*.rake</mask>
     <mask>*.sops.yaml</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
