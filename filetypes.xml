@@ -7,6 +7,7 @@
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
       <mapping pattern="push_docker_image" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern=".tool-versions" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="decoded" type="PLAIN_TEXT" />
       <mapping ext="redacted" type="PLAIN_TEXT" />
